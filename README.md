@@ -1,7 +1,7 @@
 # Chimera_crosslinks
 Intra-protein crosslink distance measurements using Chimera.
 
-Put cx_distances.py in a folder containing a UVPD_xlink.csv which contains comma-separated pairs of cross-linked residue numbers:
+Put cx_distances.py in a folder containing a UVPD_xlink.csv which contains comma-separated pairs of cross-linked residue positions:
 
 ```
 1, 15
